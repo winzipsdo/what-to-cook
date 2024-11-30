@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 主体轮廓 - 选择温暖的米色 -->
+  <circle cx="100" cy="100" r="70" fill="#f4d03f"/>
+  
+  <!-- 耳朵 -->
+  <path d="M50 70 L100 100 L75 40 Z" fill="#f4d03f"/>
+  <path d="M150 70 L100 100 L125 40 Z" fill="#f4d03f"/>
+  <path d="M60 65 L95 90 L80 45 Z" fill="#e67e22"/>
+  <path d="M140 65 L105 90 L120 45 Z" fill="#e67e22"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="80" cy="95" r="8" fill="#2c3e50"/>
+  <circle cx="120" cy="95" r="8" fill="#2c3e50"/>
+  <!-- 眼睛闪光 -->
+  <circle cx="83" cy="92" r="3" fill="white"/>
+  <circle cx="123" cy="92" r="3" fill="white"/>
+  
+  <!-- 鼻子 -->
+  <path d="M95 110 L105 110 L100 115 Z" fill="#e67e22"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M85 120 Q100 130 115 120" stroke="#2c3e50" fill="none" stroke-width="2"/>
+  
+  <!-- 胡须 -->
+  <line x1="75" y1="112" x2="45" y2="105" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="75" y1="118" x2="45" y2="118" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="75" y1="124" x2="45" y2="131" stroke="#2c3e50" stroke-width="2"/>
+  
+  <line x1="125" y1="112" x2="155" y2="105" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="125" y1="118" x2="155" y2="118" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="125" y1="124" x2="155" y2="131" stroke="#2c3e50" stroke-width="2"/>
+  
+  <!-- 脸颊 -->
+  <circle cx="75" cy="115" r="8" fill="#f1948a" opacity="0.3"/>
+  <circle cx="125" cy="115" r="8" fill="#f1948a" opacity="0.3"/>
+</svg>
